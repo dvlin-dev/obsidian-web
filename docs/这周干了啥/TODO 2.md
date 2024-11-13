@@ -1,0 +1,7 @@
+- [https://github.com/yacan8/blog/issues/30#issuecomment-2078487014](https://github.com/yacan8/blog/issues/30#issuecomment-2078487014)
+- [500ms to 1.7ms In React: A Journey And A Checklist](https://www.notion.so/500ms-to-1-7ms-In-React-A-Journey-And-A-Checklist-99b1a1e1db374047845aa4a3b72d7111?pvs=21)
+- [https://sorrycc.com/partial-prerendering-with-bun/](https://sorrycc.com/partial-prerendering-with-bun/)
+- [https://sorrycc.com/basic-things/](https://sorrycc.com/basic-things/)
+- [https://sorrycc.com/async-vs-defer-in-javascript-which-is-better/](https://sorrycc.com/async-vs-defer-in-javascript-which-is-better/)
+- [https://react.dev/blog/2024/04/25/react-19](https://react.dev/blog/2024/04/25/react-19)
+- [https://twitter.com/weijunext/following](https://twitter.com/weijunext/following) 技术博主
